@@ -65,7 +65,7 @@ The dashboard will open in your browser, allowing you to:
 ## Files Included
 - `nigerian_energy_analysis_code.ipynb` - Main analysis notebook
 - `dashboard.py` - Interactive Streamlit dashboard
-- `analysis_report.pdf` - Detailed analysis and insights report
+- `Nigeria_Energy_analysis.pdf` - Detailed analysis and insights report
 - `dataset.csv` - Energy billing dataset
 - `requirements.txt` - Dependencies
 - `README.md` - Project documentation
@@ -98,3 +98,4 @@ The project uses a Nigerian electricity billing and payments dataset containing:
 
 ## Author
 Mayomi Tsolaye Latasha
+
